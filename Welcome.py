@@ -21,7 +21,7 @@ For more details, visit my [blog post](https://www.kunal-pathak.com/blog/UEFA-Eu
 Or dig into the code on  [Github](https://github.com/kanad13/UEFA-Euro-Data-Analysis).
 				 """)
 
-st.image('./assets/soccer_player.jpeg', caption=None, width=400, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
+#st.image('./assets/soccer_player.jpeg', caption=None, width=400, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 
 # https://docs.streamlit.io/develop/api-reference/widgets/st.page_link
